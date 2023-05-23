@@ -1,0 +1,14 @@
+.container{
+    background-color: darkslateblue;
+    max-width: 400px;
+    height: 500px;
+    margin-left: 15rem;
+    border-radius: 5px;
+    border: darkorange;
+    
+    
+
+}
+.container h1{
+    color: #fff;
+}

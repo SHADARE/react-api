@@ -1,0 +1,35 @@
+.input{
+    /* color: brown; */
+}
+.input{
+    margin-top: 3rem;
+    font-size: 1rem;
+}
+#password{
+    margin-top: 1rem;
+    margin-left: 0.3rem;
+    border-radius: 3px;
+    
+
+}
+#username{
+    margin-bottom: 1rem;
+}
+.minor-div{
+    color: rgb(165, 42, 165);
+    /* margin-left: 2rem; */
+}
+.main-div{
+    color: brown;
+    margin-left: 17.5rem;
+    margin-top: 10rem;
+    background-color: darkcyan;
+    width: 20rem;
+    height: 13rem;
+    border-radius: 0.6rem;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+}
+button{
+    margin-left: 8rem;
+}
